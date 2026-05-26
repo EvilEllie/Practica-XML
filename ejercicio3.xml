@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+  <!-- ERROR CORREGIDO: atributo id sin comillas-->
+  <libro id="001">
+    <!-- ERROR CORREGIDO: la etiqueta de cierre debia ser </titulo> en minuscula -->
+    <titulo>Introduccion a la programacion</titulo>
+    <autor>Carlos Mendez</autor>
+    <anio>2021</anio>
+  </libro>
+
+  <libro id="002">
+    <titulo>Bases de datos</titulo>
+    <autor>Laura Perez</autor>
+    <anio>2019</anio>
+  </libro>
+  <!-- ERROR CORREGIDO: la etiqueta de cierre era <biblioteca> sin la diagonal, debe ser </biblioteca> -->
+</biblioteca>

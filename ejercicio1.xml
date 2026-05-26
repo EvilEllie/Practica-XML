@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumno semestre="5">
+  <nombre>Ana</nombre>
+  <apellidos>Martinez Rios</apellidos>
+  <edad>23</edad>
+  <correo>anitalavalatina_123456@hotmail.com</correo>
+  <telefono>4871156667</telefono>
+  <direccion>
+    <calle>Juarez</calle>
+    <colonia>La Reforma</colonia>
+    <ciudad>Valles</ciudad>
+  </direccion>
+</alumno>
