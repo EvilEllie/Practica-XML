@@ -10,7 +10,7 @@
   <!-- Segundo alumno -->
   <alumno id="002" turno="vespertino">
     <nombre>Laura Perez</nombre>
-    <carrera>Ingenieria en Sistemas</carrera>
+    <carrera>Ingenieria Industrial</carrera>
     <promedio>92</promedio>
     <materias>
       <materia>Taller de Bases de Datos</materia>
@@ -23,6 +23,6 @@
   <alumno id="003" turno="matutino">
     <nombre>Yuliana Ferretiz</nombre>
     <carrera>Ingenieria Informatica</carrera>
-    <promedio>85</promedio>
+    <promedio>100</promedio>
   </alumno>
 </grupo>
