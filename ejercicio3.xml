@@ -13,5 +13,7 @@
     <autor>Laura Perez</autor>
     <anio>2019</anio>
   </libro>
-  <!-- ERROR CORREGIDO: la etiqueta de cierre era <biblioteca> sin la diagonal, debe ser </biblioteca> -->
+  <!-- ERROR CORREGIDO: la etiqueta de cierre era <biblioteca> sin la diagonal, en lugar de </biblioteca> -->
 </biblioteca>
+
+<!-- No encontre el cuarto error :( -->
